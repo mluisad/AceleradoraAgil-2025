@@ -1,5 +1,5 @@
 # Gerenciamento de Produtos para a Loja AgilStore
-
+*No repositório, os arquivos com os códigos do desafio estão na branch MASTER. 
 
 ## Sobre o projeto:
 Esse projeto faz parte do processo seletivo do programa Aceleradora Ágil. 
@@ -34,19 +34,19 @@ O sistema funciona com respostas enviadas pelo próprio teclado após as opçõe
 
 5.Buscar Produto: Buscar e exibir detalhes de um produto específico pelo id ou pelo nome.
  
-# Menu de Adicionar Produto
+## Menu de Adicionar Produto
 
 Será solicitado dados para um novo produto a ser adicionado ao inventário da loja.
 
-# Menu de Atualizar Produto
+## Menu de Atualizar Produto
 
-É solicitado o ID do Produto que será atualizado, o dado que será atualizado e por fim o novo dado a ser adicionado.
+## solicitado o ID do Produto que será atualizado, o dado que será atualizado e por fim o novo dado a ser adicionado.
 
-# Menu de Excluir produto
+## Menu de Excluir produto
 
 É solicitado o ID do Produto que será excluído do inventário.
 
-# Menu de Buscar Produto
+## Menu de Buscar Produto
 
 É solicitado o ID ou nome (ou parte dele) para buscar um produto no inventário, será mostrado todos os dados do produto, se ele estiver cadastrado. 
 
